@@ -6,7 +6,7 @@ Aquí encontrarás una presentación profesional de mi perfil como **Desarrollad
 ## ✨ Vista previa
 ![Preview del Portfolio](img/fotoperfil.jpeg)
 
-📍 Puedes verlo online aquí: https://mark-iza.github.io/markiza.github.io/
+📍 Visita mi página aquí: https://mark-iza.github.io/markiza.github.io/
 
 ---
 
@@ -15,7 +15,6 @@ Aquí encontrarás una presentación profesional de mi perfil como **Desarrollad
 - **HTML5**
 - **CSS3** con diseño responsive
 - **Font Awesome** para iconos
-- **Google Fonts** (Fira Mono, Source Code Pro)
 - Efectos con `:hover`, `box-shadow` y animaciones CSS
 - Imágenes optimizadas y estructura modular
 
@@ -30,15 +29,15 @@ Aquí encontrarás una presentación profesional de mi perfil como **Desarrollad
 │ └── style.css # Estilos personalizados
 ├── img/
 │ └── fotoperfil.jpeg # Imagen de perfil
-│ └── simpleinformatica.png
-│ └── CiclosCorredor.png
+│ └── simpleinformatica.png #Imagen de la empresa Simple Informatica
+│ └── CiclosCorredor.png #Imagen de la empresa Ciclos Corredor 
 └── mi-portfolio.md # 
 ---
 
 ## 🧾 Secciones destacadas
 
 - **Sobre mí:** Breve presentación personal y objetivos profesionales.
-- **Experiencia laboral:** Descripción detallada de empleos anteriores.
+- **Experiencia laboral:** Descripción detallada de empleos anteriores con sus respectivos logos y enlaces a sus páginas web.
 - **Proyectos:** Incluye mi proyecto destacado **DEKU FIT**, una app de gimnasio personalizada.
 - **Contacto:** Enlaces a mi email y perfil de LinkedIn.
 
