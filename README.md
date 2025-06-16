@@ -32,7 +32,7 @@ Aquí encontrarás una presentación profesional de mi perfil como **Desarrollad
 │ └── fotoperfil.jpeg # Imagen de perfil
 │ └── simpleinformatica.png
 │ └── CiclosCorredor.png
-└── README.md # Este archivo
+└── mi-portfolio.md # 
 ---
 
 ## 🧾 Secciones destacadas
